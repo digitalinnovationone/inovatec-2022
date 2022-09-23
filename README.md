@@ -6,7 +6,7 @@ Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão
 
 ## Passos
 
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/ETSzLKpld_NGsD1sqbSr6FcB6KZXkMKoiAhUWpJyO5ZDsQ). Basicamente, segue uma síntese de cada passo:
+Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
 - 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
 - 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
 - 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
