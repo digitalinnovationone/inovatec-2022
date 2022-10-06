@@ -2,7 +2,18 @@
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+1. Dayane Silva de Jesus - Guanambi/BA
+2. Lucielio dos Santos Xavier - Guanambi/BA
+3. Franquislaine Reis Pereira - Belo Orente/MG
+4. Carlos Eduardo Duarte Baptista - Rio de Janeiro/RJ
+5. Thâmara de Lourdes Moreira Vasconcelos - João Pessoa/PB
+6. Isabela Larissa Corrêa Carvalho - São Luís/MA
+7. Franciely Pires Belfort - Itapecuru - Mirim/MA
+8. Luana Rodrigues - Belém do Pará
+9. July Cristy Ferreira Melo - São Gonçalo/RJ
+10. Thalyson Junior Lessa Santos - Recife/PE
+
+Especificar os integrantes da squad e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
 
 ## Passos
 
