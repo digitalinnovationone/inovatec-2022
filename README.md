@@ -1,6 +1,6 @@
 # Projeto de Inovação (Inovatec 2022)
 
-## Integrantes 
+## Integrantes da Squad
 
 1. Dayane Silva de Jesus - Guanambi/BA
 2. Lucielio dos Santos Xavier - Guanambi/BA
