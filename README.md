@@ -1,6 +1,6 @@
 # Projeto de Inovação (Inovatec 2022)
 
-## Integrantes da Squad
+## Integrantes da Squad ;;
 
 1. Dayane Silva de Jesus - Guanambi/BA
 2. Lucielio dos Santos Xavier - Guanambi/BA
@@ -29,3 +29,5 @@ Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto
 Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
 
 Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+
+...
