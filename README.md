@@ -1,8 +1,19 @@
 # Projeto de Inovação (Inovatec 2022)
 
-## Integrantes 
+## Integrantes da Squad ;;
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+1. Dayane Silva de Jesus - Guanambi/BA
+2. Lucielio dos Santos Xavier - Guanambi/BA
+3. Franquislaine Reis Pereira - Belo Orente/MG
+4. Carlos Eduardo Duarte Baptista - Rio de Janeiro/RJ
+5. Thâmara de Lourdes Moreira Vasconcelos - João Pessoa/PB
+6. Isabela Larissa Corrêa Carvalho - São Luís/MA
+7. Franciely Pires Belfort - Itapecuru - Mirim/MA
+8. Luana Rodrigues - Belém do Pará
+9. July Cristy Ferreira Melo - São Gonçalo/RJ
+10. Thalyson Junior Lessa Santos - Recife/PE
+
+Especificar os integrantes da squad e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
 
 ## Passos
 
@@ -18,3 +29,5 @@ Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto
 Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
 
 Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+
+...
